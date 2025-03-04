@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+    padding: 0px 60px;
+}
+.boxLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70%;
+    width: 300px;
+    background-color: aqua;
+}
+.logo{
+
+}
+.textos{    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    color: white;
+    font-size: 30px;
+    gap: 60px;
+}

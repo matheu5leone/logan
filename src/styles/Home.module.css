@@ -1,0 +1,9 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 colunas */
+    grid-template-rows: repeat(2, 40vh); /* 2 linhas */
+    justify-content: center;
+    width: 100vw;
+    overflow: hidden;
+  }
+  
