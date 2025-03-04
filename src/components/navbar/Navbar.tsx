@@ -6,11 +6,15 @@ export default function Navbar() {
     return (
         <div className={style.container}>
             <div className={style.boxLogo}>
-                <img src='next.svg' className={style.logo}></img>
+                <img src='next.svg'></img>
             </div>
             <span className={style.textos}>
-                <span>Sobre</span>
-                <span>Contato</span>
+                <a href="#sobre">
+                    <span>Sobre</span>
+                </a>
+                <a href="#contato">
+                    <span>Contato</span>
+                </a>
             </span>
         </div>
     )

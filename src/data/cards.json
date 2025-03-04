@@ -1,42 +1,43 @@
 [
     {
         "id": 1,
-        "title": "Java",
+        "title": "TA LIGADO NEH PAE",
         "description": "",
-        "image": "/portfolio/technologies/java.png",
-        "video": ""
+        "image": "https://img.youtube.com/vi/DIw7nJ15UXM/maxresdefault.jpg",
+        "video": "https://www.youtube.com/embed/DIw7nJ15UXM?si=ay7uLCbOx-Wfhpwq"
     },
     {
         "id": 2,
-        "title": "Java",
-        "description": "",
-        "image": "/portfolio/technologies/java.png",
-        "video": ""
+        "title": "ONDE É QUE É HEIM HEIM HEIM",
+        "description": "asdasdadasd",
+        "image": "https://img.youtube.com/vi/j2bzgNjM8_I/maxresdefault.jpg",
+        "video": "https://youtube.com/embed/j2bzgNjM8_I"
     },
     {
         "id": 3,
-        "title": "Java",
+        "title": "repoter doidao",
         "description": "",
-        "image": "/portfolio/technologies/java.png",
-        "video": ""
-    },    {
+        "image": "https://img.youtube.com/vi/PSqZcSHYNmI/maxresdefault.jpg",
+        "video": "https://youtube.com/embed/PSqZcSHYNmI"
+    },    
+    {
         "id": 4,
-        "title": "Java",
+        "title": "Ó A SOMBRA MAN KKKKKK ",
         "description": "",
-        "image": "/portfolio/technologies/java.png",
-        "video": ""
+        "image": "https://img.youtube.com/vi/zVgKnfN9i34/maxresdefault.jpg",
+        "video": "https://youtube.com/embed/zVgKnfN9i34"
     },
     {
         "id": 5,
-        "title": "Java",
+        "title": "TIRA ALEK, TIRAAAA",
         "description": "",
-        "image": "/portfolio/technologies/java.png",
-        "video": ""
+        "image": "https://img.youtube.com/vi/Et35W8UaewU/0.jpg",
+        "video": "https://youtube.com/embed/Et35W8UaewU"
     },    {
         "id": 6,
-        "title": "pdikasidfhf",
+        "title": "tiops de carinahs sao",
         "description": "",
-        "image": "/portfolio/technologies/java.png",
-        "video": ""
+        "image": "https://img.youtube.com/vi/YtpATpMKDkg/0.jpg",
+        "video": "https://youtube.com/embed/YtpATpMKDkg"
     }
 ]

@@ -6,6 +6,7 @@ import Navbar from "../components/navbar/Navbar";
 import Footer from "../components/footer/Footer";
 import cards from "../data/cards.json";
 import Card from "@/components/card/Card";
+import Sobre from "@/components/sobre/Sobre";
 
 export default function Home() {
   return (
@@ -17,10 +18,12 @@ export default function Home() {
             key={card.id}
             title={card.title}
             image={card.image}
-            video={card.video}
+            description={card.description}
+            videoUrl={card.video}
           />
         ))}
       </div>
+      <Sobre  />
       <Footer />
     </>
   );
